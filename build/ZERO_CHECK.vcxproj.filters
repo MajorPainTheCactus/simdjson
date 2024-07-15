@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Development\modder_runtime\deps\simdjson\build\CMakeFiles\47e664ecf04c299c9c769fe15b57a8df\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{3C229676-EB8B-3A28-B5E7-3F84615A0954}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
