@@ -107,3 +107,10 @@ objs
 
 # clangd
 .cache
+build/.vs/
+
+build/simdjson_static.dir/
+
+build/x64/
+
+*.user
